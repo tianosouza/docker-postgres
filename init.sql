@@ -1,2 +1,1 @@
--- CREATE DATABASE helpdesk;
-CREATE DATABASE microservice;
+CREATE DATABASE microservice; /*ou nome do banco que deseja atribuir*/
