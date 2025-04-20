@@ -19,8 +19,8 @@ Este repositório contém os arquivos necessários para criar e configurar uma i
 1. Clone este repositório:
 
    ```bash
-   git clone <url-do-repositorio>
-   cd postgres
+   git clone https://github.com/tianosouza/docker-postgres
+   cd docker-postgres
    ```
 
 2. Construa a imagem e inicie o container:
